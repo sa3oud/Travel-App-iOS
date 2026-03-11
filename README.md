@@ -1,4 +1,4 @@
-# chonautia (iOS Archive)
+# Chonautia (iOS Archive)
 
 A high-performance iOS application built with **SwiftUI** and **Metal** for real-time visual processing.
 
